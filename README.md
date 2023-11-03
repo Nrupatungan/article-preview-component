@@ -23,7 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop design](./assets/design/desktop-design.jpg)
+![mobile design](./assets/design/mobile-design.jpg)
 
 ### Links
 
